@@ -12,6 +12,12 @@ Hi, I'm Venkat kalyan<br>Blockchain Enthusiast & Ethereum Developer | Shaping De
 ![](https://github-readme-streak-stats.herokuapp.com/?user=venkatkalyan18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatkalyan18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=venkatkalyan18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -19,10 +25,5 @@ Hi, I'm Venkat kalyan<br>Blockchain Enthusiast & Ethereum Developer | Shaping De
 [![](https://visitcount.itsvg.in/api?id=venkatkalyan18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
